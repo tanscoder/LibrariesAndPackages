@@ -1,2 +1,4 @@
-Node
-Express
+Node --provides runtime outside of the browser
+Express -- Framework for 
+Mongoose --  Compatability with MongoDB
+
