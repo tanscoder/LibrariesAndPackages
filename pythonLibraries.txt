@@ -4,4 +4,6 @@ cv2 --
 tensorFlow --
 serial.tools.list_ports --
 random --
+flask and Django -- Web apps
+
 
