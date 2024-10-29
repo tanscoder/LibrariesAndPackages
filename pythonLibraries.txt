@@ -5,5 +5,7 @@ tensorFlow --
 serial.tools.list_ports --
 random --
 flask and Django -- Web apps
+tkinter --to make basic GUI in python
 
 
+  
